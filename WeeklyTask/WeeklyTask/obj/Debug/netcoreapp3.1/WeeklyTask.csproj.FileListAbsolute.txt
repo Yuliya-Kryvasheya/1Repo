@@ -1,0 +1,13 @@
+D:\1Repo\WeeklyTask\WeeklyTask\bin\Debug\netcoreapp3.1\WeeklyTask.exe
+D:\1Repo\WeeklyTask\WeeklyTask\bin\Debug\netcoreapp3.1\WeeklyTask.deps.json
+D:\1Repo\WeeklyTask\WeeklyTask\bin\Debug\netcoreapp3.1\WeeklyTask.runtimeconfig.json
+D:\1Repo\WeeklyTask\WeeklyTask\bin\Debug\netcoreapp3.1\WeeklyTask.runtimeconfig.dev.json
+D:\1Repo\WeeklyTask\WeeklyTask\bin\Debug\netcoreapp3.1\WeeklyTask.dll
+D:\1Repo\WeeklyTask\WeeklyTask\bin\Debug\netcoreapp3.1\WeeklyTask.pdb
+D:\1Repo\WeeklyTask\WeeklyTask\obj\Debug\netcoreapp3.1\WeeklyTask.csprojAssemblyReference.cache
+D:\1Repo\WeeklyTask\WeeklyTask\obj\Debug\netcoreapp3.1\WeeklyTask.AssemblyInfoInputs.cache
+D:\1Repo\WeeklyTask\WeeklyTask\obj\Debug\netcoreapp3.1\WeeklyTask.AssemblyInfo.cs
+D:\1Repo\WeeklyTask\WeeklyTask\obj\Debug\netcoreapp3.1\WeeklyTask.csproj.CoreCompileInputs.cache
+D:\1Repo\WeeklyTask\WeeklyTask\obj\Debug\netcoreapp3.1\WeeklyTask.dll
+D:\1Repo\WeeklyTask\WeeklyTask\obj\Debug\netcoreapp3.1\WeeklyTask.pdb
+D:\1Repo\WeeklyTask\WeeklyTask\obj\Debug\netcoreapp3.1\WeeklyTask.genruntimeconfig.cache

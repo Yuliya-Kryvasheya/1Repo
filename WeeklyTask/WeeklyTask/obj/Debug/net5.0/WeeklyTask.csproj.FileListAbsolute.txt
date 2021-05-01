@@ -1,0 +1,16 @@
+D:\1Repo\WeeklyTask\WeeklyTask\bin\Debug\net5.0\WeeklyTask.exe
+D:\1Repo\WeeklyTask\WeeklyTask\bin\Debug\net5.0\WeeklyTask.deps.json
+D:\1Repo\WeeklyTask\WeeklyTask\bin\Debug\net5.0\WeeklyTask.runtimeconfig.json
+D:\1Repo\WeeklyTask\WeeklyTask\bin\Debug\net5.0\WeeklyTask.runtimeconfig.dev.json
+D:\1Repo\WeeklyTask\WeeklyTask\bin\Debug\net5.0\WeeklyTask.dll
+D:\1Repo\WeeklyTask\WeeklyTask\bin\Debug\net5.0\ref\WeeklyTask.dll
+D:\1Repo\WeeklyTask\WeeklyTask\bin\Debug\net5.0\WeeklyTask.pdb
+D:\1Repo\WeeklyTask\WeeklyTask\obj\Debug\net5.0\WeeklyTask.csprojAssemblyReference.cache
+D:\1Repo\WeeklyTask\WeeklyTask\obj\Debug\net5.0\WeeklyTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\1Repo\WeeklyTask\WeeklyTask\obj\Debug\net5.0\WeeklyTask.AssemblyInfoInputs.cache
+D:\1Repo\WeeklyTask\WeeklyTask\obj\Debug\net5.0\WeeklyTask.AssemblyInfo.cs
+D:\1Repo\WeeklyTask\WeeklyTask\obj\Debug\net5.0\WeeklyTask.csproj.CoreCompileInputs.cache
+D:\1Repo\WeeklyTask\WeeklyTask\obj\Debug\net5.0\WeeklyTask.dll
+D:\1Repo\WeeklyTask\WeeklyTask\obj\Debug\net5.0\ref\WeeklyTask.dll
+D:\1Repo\WeeklyTask\WeeklyTask\obj\Debug\net5.0\WeeklyTask.pdb
+D:\1Repo\WeeklyTask\WeeklyTask\obj\Debug\net5.0\WeeklyTask.genruntimeconfig.cache
